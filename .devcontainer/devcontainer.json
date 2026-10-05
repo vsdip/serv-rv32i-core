@@ -1,0 +1,7 @@
+{
+  "name": "SERV RV32I Development",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "remoteUser": "vscode"
+}

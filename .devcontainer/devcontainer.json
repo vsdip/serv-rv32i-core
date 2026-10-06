@@ -1,5 +1,5 @@
 {
-  "name": "SERV RV32I Development",
+  "name": "SERV RV32I development",
   "build": {
     "dockerfile": "Dockerfile"
   },
